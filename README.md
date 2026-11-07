@@ -52,7 +52,7 @@ All thresholds are configurable through `scoreval.Thresholds`.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/credit-scoring-validation.git
+git clone https://github.com/IuliaKogoleva/credit-scoring-validation.git
 cd credit-scoring-validation
 pip install -e ".[dev]"
 pytest
